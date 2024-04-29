@@ -1,0 +1,16 @@
+<map id="LRF_SwParam" name="LRF_SwParam">
+<area shape="rect" id="node2" href="$_l_r_f_c_c23_x0_8h.html#struct_l_r_f___trim_def" title="LRF_TrimDef" alt="" coords="615,157,719,184"/>
+<area shape="rect" id="node3" href="$_l_r_f_c_c23_x0_8h.html#union_l_r_f___trim2" title="LRF_Trim2" alt="" coords="333,5,422,32"/>
+<area shape="rect" id="node4" href="$_l_r_f_c_c23_x0_8h.html#struct_l_r_f___double_word" title="LRF_DoubleWord" alt="" coords="33,56,165,83"/>
+<area shape="rect" id="node7" href="$_l_r_f_c_c23_x0_8h.html#union_l_r_f___trim___variant" title="LRF_Trim_Variant" alt="" coords="310,56,445,83"/>
+<area shape="rect" id="node9" href="$_l_r_f_c_c23_x0_8h.html#union_l_r_f___trim1" title="LRF_Trim1" alt="" coords="333,107,422,133"/>
+<area shape="rect" id="node5" href="$_l_r_f_c_c23_x0_8h.html#union_l_r_f___trim3" title="LRF_Trim3" alt="" coords="333,157,422,184"/>
+<area shape="rect" id="node6" href="$_l_r_f_c_c23_x0_8h.html#union_l_r_f___trim4" title="LRF_Trim4" alt="" coords="333,208,422,235"/>
+<area shape="rect" id="node8" href="$_l_r_f_c_c23_x0_8h.html#union_l_r_f___trim0" title="LRF_Trim0" alt="" coords="333,259,422,285"/>
+<area shape="rect" id="node10" href="$_l_r_f_c_c23_x0_8h.html#struct_l_r_f___tx_power_table" title="Tx power table, containing all characterized dBm to register settings mappings. " alt="" coords="596,309,739,336"/>
+<area shape="rect" id="node11" href="$_l_r_f_c_c23_x0_8h.html#struct_l_r_f___tx_power_table___entry" title="Single entry of the tx power table. Maps power in dBm to specific register settings. " alt="" coords="285,309,469,336"/>
+<area shape="rect" id="node12" href="$_l_r_f_c_c23_x0_8h.html#union_l_r_f___tx_power_table___index" title="Index of the tx power table. " alt="" coords="5,284,192,311"/>
+<area shape="rect" id="node13" href="$_l_r_f_c_c23_x0_8h.html#union_l_r_f___tx_power_table___value" title="Type for tx power configuration. " alt="" coords="5,335,192,361"/>
+<area shape="rect" id="node14" href="$_l_r_f_c_c23_x0_8h.html#struct_l_r_f___sw_config" title="Software defined PHY parameters. " alt="" coords="611,360,724,387"/>
+<area shape="rect" id="node15" href="$_l_r_f_c_c23_x0_8h.html#struct_l_r_f___tx_shape" title="LRF_TxShape" alt="" coords="323,360,432,387"/>
+</map>

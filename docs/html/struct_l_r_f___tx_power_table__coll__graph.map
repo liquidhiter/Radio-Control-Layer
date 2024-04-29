@@ -1,0 +1,5 @@
+<map id="LRF_TxPowerTable" name="LRF_TxPowerTable">
+<area shape="rect" id="node2" href="$_l_r_f_c_c23_x0_8h.html#struct_l_r_f___tx_power_table___entry" title="Single entry of the tx power table. Maps power in dBm to specific register settings. " alt="" coords="112,95,296,121"/>
+<area shape="rect" id="node3" href="$_l_r_f_c_c23_x0_8h.html#union_l_r_f___tx_power_table___index" title="Index of the tx power table. " alt="" coords="5,5,192,32"/>
+<area shape="rect" id="node4" href="$_l_r_f_c_c23_x0_8h.html#union_l_r_f___tx_power_table___value" title="Type for tx power configuration. " alt="" coords="216,5,403,32"/>
+</map>
